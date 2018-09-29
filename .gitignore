@@ -1,3 +1,13 @@
+.bash_logout
+.bashrc
+.conda/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.profile
+.wget-hsts
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
