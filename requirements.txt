@@ -3,3 +3,5 @@ jsonpath-rw
 jsonpath-rw-ext
 jsondiff
 seaborn
+memory_profiler
+ipython-autotime
