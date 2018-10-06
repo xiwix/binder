@@ -1,0 +1,2 @@
+git lfs install
+git checkout -b bga-pr origin/bga-pr
